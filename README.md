@@ -1,5 +1,7 @@
 # git-order
-git常用命令
+git常用命令  
+
+[git文档](https://git-scm.com/book/zh/v2)
 
 
 ## 本地分支推远程分支
